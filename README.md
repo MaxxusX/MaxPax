@@ -161,6 +161,7 @@ My custom resourcepack. Mostly just random stuff.
 
 run the following command to get it:
 `/give @p potion{display:{Name:'{"text":"Clubmate","color":"gold","bold":true}'},CustomModelData:1,Potion:"minecraft:water",CustomPotionColor:15440896} 1`
+
 <img src="img/clubmate.png">
 </details>
 
@@ -172,5 +173,5 @@ sus
 
 * amongus
 
-<img src="img/clubmate.png">
+<img src="img/amongus.png">
 </details>
