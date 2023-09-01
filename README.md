@@ -152,9 +152,13 @@ My custom resourcepack. Mostly just random stuff.
 
 <details>
 <summary>Features:</summary>
+
 * "MaxPax" Edition
+
 <img src="img/edition.png">
+
 * clubmate
+
 run the following command to get it:
 `/give @p potion{display:{Name:'{"text":"Clubmate","color":"gold","bold":true}'},CustomModelData:1,Potion:"minecraft:water",CustomPotionColor:15440896} 1`
 <img src="img/clubmate.png">
@@ -165,6 +169,8 @@ sus
 
 <details>
 <summary>Features:</summary>
+
 * amongus
+
 <img src="img/clubmate.png">
 </details>
