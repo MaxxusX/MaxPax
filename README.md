@@ -157,7 +157,7 @@ My custom resourcepack. Mostly just random stuff.
 
 <img src="img/edition.png">
 
-<br><br><br>
+<br><br>
 
 **clubmate**
 
